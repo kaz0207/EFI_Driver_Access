@@ -1,0 +1,7 @@
+﻿  Driver.cpp
+  EFIClient.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 120 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  EFIClient.vcxproj -> C:\Users\kazup\Downloads\EFI_Driver_Access-master\EFI_Driver_Access-master\x64\Release\EFIClient.exe
